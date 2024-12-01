@@ -49,7 +49,7 @@ sub print_login_form {
                 text-align: center;
                 margin: 0;
                 padding: 0;
-                background: linear-gradient(135deg, #1184ee, #6900ff, #9face6);
+                background: linear-gradient(135deg, #16a085, #d35400, #8e44ad);
                 height: 100vh;
                 display: flex;
                 justify-content: center;

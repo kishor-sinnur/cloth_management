@@ -56,7 +56,7 @@ sub print_cart_screen {
                 }
                 .header {
                     background-color: #00c853;
-                    color: white;
+                    color: #bdb9b7;
                     padding: 20px;
                     font-size: 24px;
                     text-align: left;
