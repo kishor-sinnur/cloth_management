@@ -97,7 +97,7 @@ sub print_form_page {
             code => q{
             body {
                 font-family: Arial, sans-serif;
-                background: #f9f9f9;
+                background: #c60cf3;
                 margin: 0;
                 padding: 0;
                 display: flex;

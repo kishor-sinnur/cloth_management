@@ -38,7 +38,7 @@ sub print_registration_form {
             code => q{
             body {
                 font-family: "Roboto", sans-serif;
-                background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+                background:background: linear-gradient(135deg, #bdb9b7, #e4e4e2);
                 height: 100vh;
                 margin: 0;
                 display: flex;
@@ -46,7 +46,7 @@ sub print_registration_form {
                 align-items: center;
             }
             .container {
-                background: white;
+                background:#bdb9b7;
                 padding: 30px;
                 border-radius: 12px;
                 box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
